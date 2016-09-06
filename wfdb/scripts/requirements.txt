@@ -1,0 +1,16 @@
+beautifulsoup4==4.5.1
+bs4==0.0.1
+Lasagne==0.1
+lxml==3.6.4
+numexpr==2.6.1
+numpy==1.11.1
+pandas==0.18.1
+python-dateutil==2.5.3
+pytz==2016.6.1
+requests==2.11.1
+scikit-learn==0.17.1
+scikit-neuralnetwork==0.7
+scipy==0.18.0
+six==1.10.0
+tables==3.2.3.1
+Theano==0.8.2
