@@ -12,5 +12,4 @@ scikit-learn==0.17.1
 scikit-neuralnetwork==0.7
 scipy==0.18.0
 six==1.10.0
-tables==3.2.3.1
 Theano==0.8.2
